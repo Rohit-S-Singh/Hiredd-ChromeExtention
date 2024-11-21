@@ -1,6 +1,7 @@
 # Hiredd-ChromeExtention
 
 File Structure
+
 /email-extension
 ├── /assets
 │   ├── icon.png              # Extension icon (16x16, 48x48, 128x128)

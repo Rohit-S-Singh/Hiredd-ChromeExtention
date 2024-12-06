@@ -9,13 +9,13 @@ ________________________________________________________________________________
 
 <img width="871" alt="Screenshot 2024-12-03 at 2 41 17 AM" src="https://github.com/user-attachments/assets/77fdb8c5-fd37-4589-81dd-0476dc6cbb56">
 
-                                                           ### **1. Extension Overview when clicked **
+                                                           *1. Extension Overview when clicked*
 
 ___________________________________________________________________________________
                                                             
 <img width="1398" alt="Screenshot 2024-12-03 at 2 46 15 AM" src="https://github.com/user-attachments/assets/ca12aea5-7585-4833-8268-709a51a80b54">
                                                           
-                                                           2. Button used to fetch details on user click
+                                                           *2. Button used to fetch details on user click*
 
 ___________________________________________________________________________________
 

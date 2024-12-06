@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 This is a chrome extension related to hired. It extracts emails and sends it to our Hiredd for processing. The extension also has a UI which the users can interact with to choose to send their data to Hiredd.
 
-![Image 1](https://ibb.co/HHtJJLX)
+<img width="871" alt="Screenshot 2024-12-03 at 2 41 17 AM" src="https://github.com/user-attachments/assets/77fdb8c5-fd37-4589-81dd-0476dc6cbb56">
 
                                                             Extension Overview when clicked
 

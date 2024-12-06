@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 <img width="871" alt="Screenshot 2024-12-03 at 2 41 17 AM" src="https://github.com/user-attachments/assets/77fdb8c5-fd37-4589-81dd-0476dc6cbb56">
 
-                                                           1. Extension Overview when clicked
+                                                           ### **1. Extension Overview when clicked **
 
 ___________________________________________________________________________________
                                                             
